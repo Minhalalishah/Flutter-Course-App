@@ -91,10 +91,24 @@ The app includes a simple authentication system with:
 - Remember me functionality
 - Session management
 
+## 📱 App Screenshots
+
+### Mobile App Development Detail Screen
+![Mobile App Development Screen](assets/images/mobile_app_dev_screen.png)
+
+### Course Banner Display
+![Course Banner](assets/images/course_banner.png)
+
+### App Interface
+![App Interface](assets/images/app_interface.png)
+
 ## 📂 Assets
 
 - `assets/images/2045.jpg` - Mobile App Development banner
 - `assets/images/banner.png` - Default course banner
+- `assets/images/mobile_app_dev_screen.png` - App screenshot
+- `assets/images/course_banner.png` - Course banner screenshot
+- `assets/images/app_interface.png` - App interface screenshot
 - Responsive image handling with proper scaling
 
 ## 🤝 Contributing
