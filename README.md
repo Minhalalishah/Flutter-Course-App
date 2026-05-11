@@ -127,11 +127,5 @@ The app includes a simple authentication system with:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 📞 Contact
-
-[Your Name] - [Your Email]
-[Project Link](https://github.com/yourusername/flutter_auth_app)
+## Author
+Hafiz Syed Minhal Ali
