@@ -99,16 +99,16 @@ The app includes a simple authentication system with:
 ## 📱 App Screenshots
 
 ### Login Screen
-![Login Screen](assets/images/Login.png)
+![Login](assets/images/Login.PNG)
 
 ### Registration Screen
-![Registration Screen](assets/images/Registration.png)
+![Registration](assets/images/Registration.PNG)
 
 ### Dashboard Screen
-![Dashboard Screen](assets/images/Dashboard.png)
+![Dashboard](assets/images/Dashboard.PNG)
 
 ### Detail Screen
-![Detail Screen](assets/images/Detail.png)
+![Detail](assets/images/Detail.PNG)
 
 ## 📂 Assets
 
