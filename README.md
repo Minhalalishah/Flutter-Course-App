@@ -1,7 +1,12 @@
 
-# Flutter Authentication App
+# 📱 Flutter Course App
 
-A multi-screen Flutter authentication application with dashboard functionality and course management features.
+## 👨‍🎓 Student Information
+- **Name:** Hafiz Syed Minhal Ali 
+- **Student ID:** SE221018  
+- **Course:** Mobile App Development  
+
+---
 
 ## 📱 Features
 
