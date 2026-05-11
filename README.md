@@ -98,14 +98,17 @@ The app includes a simple authentication system with:
 
 ## 📱 App Screenshots
 
-### Mobile App Development Detail Screen
-![Mobile App Development Screen](assets/images/mobile_app_dev_screen.png)
+### Login Screen
+![Mobile App Development Screen](assets/images/Login.png)
 
-### Course Banner Display
-![Course Banner](assets/images/course_banner.png)
+### Registration Screen
+![Course Banner](assets/images/Registration.png)
 
-### App Interface
-![App Interface](assets/images/app_interface.png)
+### Dashboard Screen
+![App Interface](assets/images/Dashboard.png)
+
+### Detail Screen
+![App Interface](assets/images/Detail.png)
 
 ## 📂 Assets
 
